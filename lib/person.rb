@@ -1,4 +1,4 @@
-def Person
+class Person
 def intitialize(name)
   name = name
 end
